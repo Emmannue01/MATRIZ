@@ -1,0 +1,23 @@
+/*
+CSS
+*/
+
+table {
+border-collapse: collapse;
+}
+
+td {
+border: 1px solid black;
+padding: 5px;
+}
+        
+button {
+margin-top: 10px;
+}
+
+textarea {
+width: 70%;
+height: 200px;
+margin-top: 10px;
+resize: none;
+}
